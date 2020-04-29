@@ -1,0 +1,13 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://pbinkley.github.io/test-wax-without-wax/img/derivatives/iiif/collection/newcoll.json",
+  "@type": "sc:Collection",
+  "label": "newcoll",
+  "manifests": [
+    {
+      "@id": "https://pbinkley.github.io/test-wax-without-wax/img/derivatives/iiif/testimg1/manifest.json",
+      "@type": "sc:Manifest",
+      "label": "testimg1"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "@type": "oa:Annotation",
+  "@id": "https://pbinkley.github.io/test-wax-without-wax/img/derivatives/iiif/annotation/testimg1.json",
+  "motivation": "sc:painting",
+  "resource": {
+    "@id": "https://pbinkley.github.io/test-wax-without-wax/img/derivatives/iiif/images/testimg1/full/full/0/default.jpg",
+    "@type": "dcterms:Image",
+    "format": "image/jpeg",
+    "service": {
+      "@context": "http://iiif.io/api/image/2/context.json",
+      "@id": "https://pbinkley.github.io/test-wax-without-wax/img/derivatives/iiif/images/testimg1",
+      "profile": "http://iiif.io/api/image/2/level0.json"
+    },
+    "width": 5312,
+    "height": 2988
+  },
+  "on": "https://pbinkley.github.io/test-wax-without-wax/img/derivatives/iiif/canvas/testimg1.json",
+  "@context": "http://iiif.io/api/presentation/2/context.json"
+}
